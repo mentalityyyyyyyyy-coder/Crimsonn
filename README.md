@@ -1,4 +1,4 @@
-# Almirs-Cybersecurity-gallery
+# Crimson
 A bunch of cybersecurity stuff.
 
 # What actually is this repo?
