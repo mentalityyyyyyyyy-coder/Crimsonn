@@ -23,3 +23,14 @@ Linux can pretty much run on a toaster, so as long as you have a laptop, or a pc
 And if you have a phone, why are you reading this?
 
 There are many distros, ranging from fedora, to distros like Arch, or Gentoo (which unfortunatly you will learn about later.)
+
+# Installing Fedora.
+
+Fedora is, if not, the easiest linux distro. Lets start with what desktop environment we want. 
+
+Wait wait, what? Desktop environment?
+
+Im not even going to make it sound difficult its just how your desktop looks.
+
+There is Gnome, and KDE Plasma. Basically, Gnome is more like macOS, and KDE Plasma is more like windows. But you can change both of them to look like whatever
+your heart desires.
