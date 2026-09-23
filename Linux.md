@@ -6,4 +6,6 @@ If you arent interested in switching to linux, or you already use linux, you can
 But, I think linux is just better then windows and macos, especially for this kind of stuff.
 
 Dont worry, linux is actually incredibly easy.
+
+
 ![Uploading 5 Advanced Linux Distributions You Should Try - LifeHack.jpg…]()
