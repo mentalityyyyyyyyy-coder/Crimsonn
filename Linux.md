@@ -8,4 +8,4 @@ But, I think linux is just better then windows and macos, especially for this ki
 Dont worry, linux is actually incredibly easy.
 
 
-![Uploading 5 Advanced Linux Distributions You Should Try - LifeHack.jpg…]()
+<img width="736" height="853" alt="5 Advanced Linux Distributions You Should Try - LifeHack" src="https://github.com/user-attachments/assets/ec7692a8-cd7b-4717-8938-5fd2083f88f0" />
